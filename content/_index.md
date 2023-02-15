@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Hugo Academic Theme
+      title: Disong Academic
       image:
         filename: hero-academic.png
       cta:
