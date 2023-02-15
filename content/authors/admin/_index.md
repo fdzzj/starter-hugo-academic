@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Disong Fu 傅迪松
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Disong
+last_name: Fu
 
 # Status emoji
 status:
@@ -14,21 +14,22 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoctoral fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Institute of Atmospheric Physics
+    url: www.iap.cas.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include atmospheric particle concentration estimation, aerosol optical characteristics remote sensing retrieval, ground satellite data fusion, nighttime aerosol characteristics retrieval, and deep learning
+.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Aerosol 
+  - Air Pollution
+  - Machine Learning
 
 # Education to show in About widget
 education:
