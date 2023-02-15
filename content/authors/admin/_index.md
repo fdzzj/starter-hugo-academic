@@ -65,5 +65,5 @@ email: 'fudisong@mail.iap.ac.cn'
 highlight_name: true
 ---
 
-# Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable  matter. #She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-# {style="text-align: justify;"}
+Disong Fu is a postdoctoral fellow of the Institute of Atmospheric Physics. His research interests include atmospheric particle concentration estimation, aerosol optical characteristics remote sensing retrieval, ground/satellite data fusion, nighttime aerosol characteristics retrieval, and machine learning.
+{style="text-align: justify;"}
