@@ -22,8 +22,7 @@ organizations:
     url: www.iap.cas.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include atmospheric particle concentration estimation, aerosol optical characteristics remote sensing retrieval, ground satellite data fusion, nighttime aerosol characteristics retrieval, and deep learning
-.
+bio: My research interests include atmospheric particle concentration estimation, aerosol optical characteristics remote sensing retrieval, ground/satellite data fusion,      nighttime aerosol characteristics retrieval, and deep learning.
 
 # Interests to show in About widget
 interests:
